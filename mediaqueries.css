@@ -1,0 +1,9 @@
+@media (max-width: 900px){
+ #Desktop-nav{
+    display: none;
+ }
+#hamurger-nav{
+   display: flex;
+ }
+
+}
